@@ -13,7 +13,7 @@ body, header, nav, main, footer, h1, div, img, ul {
 
 /* Style rules for body and images */
 body {
-background-color: #000;
+background-color: #7bafd4;
 }
 
 img {
@@ -28,7 +28,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: #000;
+  background-color: #7bafd4;
   height: 190px;
 }
 
@@ -75,14 +75,14 @@ nav li a {
 
 /*Style rules for main content */
 main {
-  background-color: #fff;
+  background-color: #fedba6;
   padding: 2%;
   font-size: 1.15em;
   font-family: 'Roboto Slab', serif;
 }
 
 .tel-link {
-  background-color: #404040;
+  background-color: #7bafd4;
   padding: 2%;
   margin: 0 auto;
   width: 80%;
