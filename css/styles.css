@@ -188,9 +188,9 @@ footer p a {
   }
 
   #events {
-    border-top: 1px solid #000;
-    border-bottom: 1px solid #000;
-    background: linear-gradient(to right, #ccc, #fff);
+    border-top: 1px solid #fedba6;
+    border-bottom: 1px solid #fedba6;
+    background: linear-gradient(to right, #fdb441, #fff);
     background-color: #f2f2f2;
     padding: 1% 2%;
   }
