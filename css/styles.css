@@ -215,7 +215,7 @@ footer p a {
 }
 
 /* Media Query for Desktop Viewport */
-@media screen and (min-width: 1015px), print {
+@media screen and (min-width: 1110px), print {
 
   /* Desktop Viewport: Style rule for header */
   header {
