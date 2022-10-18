@@ -126,12 +126,12 @@ main {
 }
 
 #contact .contact-email-link {
-  color: #666600;
+  color: #7bafd4;
   text-decoration: none;
 }
 
 .map {
-  border: 2px solid #000;
+  border: 2px solid #7bafd4;
   width: 95%;
   height: 50%;
 }
